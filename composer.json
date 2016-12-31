@@ -1,0 +1,41 @@
+{
+    "name": "ninebitz/coolsms",
+    "description": "CoolSMS notifications channel for Laravel 5.3",
+    "homepage": "https://github.com/ninebitz/coolsms",
+    "license": "MIT",
+    "version": "v1.0",
+    "authors": [
+        {
+            "name": "ninebitz",
+            "email": "ninebitz@gmail.com",
+            "homepage": "https://github.com/ninebitz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "coolsms/php-sdk": "^2.0",
+        "illuminate/notifications": "^5.3",
+        "illuminate/support": "^5.1|^5.2|^5.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.5",
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "NotificationChannels\\Coolsms\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NotificationChannels\\Coolsms\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
