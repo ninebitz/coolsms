@@ -2,8 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ninebitz/coolsms.svg?style=flat-square)](https://packagist.org/packages/ninebitz/coolsms)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ninebitz/coolsms.svg?style=flat-square)](https://scrutinizer-ci.com/g/ninebitz/coolsms)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ninebitz/coolsms/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/ninebitz/coolsms/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/ninebitz/coolsms.svg?style=flat-square)](https://packagist.org/packages/ninebitz/coolsms)
 
 ## Contents
