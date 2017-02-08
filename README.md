@@ -1,4 +1,4 @@
-# CoolSMS notifications channel for Laravel 5.3
+# CoolSMS notifications channel for Laravel >= 5.3
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ninebitz/coolsms.svg?style=flat-square)](https://packagist.org/packages/ninebitz/coolsms)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
